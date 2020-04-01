@@ -2,7 +2,6 @@
     background: url(testacac.github.io/linus.png);
 
 }
-.xbox.edit .p1 {
+.xbox.edit .p0, .xbox.edit .p1,.xbox.edit .p2,.xbox.edit .p3  {
     background: url(testacac.github.io/nothing.png);
-
 }
